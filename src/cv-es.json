@@ -1,0 +1,170 @@
+{
+    "basics": {
+      "name": "Sebastián Javier Esnaola",
+      "age":"25",
+      "label": "Desarrollador de videojuegos y Frontend Junior",
+      "image": "../me.png",
+      "email": "isp2014asje@gmail.com",
+      "phone": "+54 9 2324562094",
+      "url": "",
+      "summary": "Me considero una persona responsable, respetuosa y dedicada. Estoy buscando mi primer trabajo en la industria para mejorar mis habilidades y crecer personalmente.",
+      "location": {
+        "address": "",
+        "postalCode": "6600",
+        "city": "Mercedes",
+        "countryCode": "Argentina",
+        "region": "Buenos Aires"
+      },
+      "profiles": [
+      {
+        "network":"LinkedIn",
+        "username":"Sebastian Esnaola",
+        "url": "https://www.linkedin.com/in/sebastian-esnaola"
+      },
+      {
+        "network":"GitHub",
+        "username":"Sebastian Esnaola",
+        "url": "https://github.com/Tatian05"
+      }]
+    },
+    "work":"Todavía no tengo experience pero sigo desarrollando proyectos propios para seguir aprendiendo :)",
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Escuela Da Vinci",
+      "url": "https://davinci.edu.ar/",
+      "area": "Diseño y Programación de Videojuegos",
+      "studyType": "Terciario",
+      "startDate": "2019",
+      "endDate": "2023",
+      "score": "8.66"
+    },
+    {
+      "institution":"Colegio San Patricio",
+      "url": "",
+      "area": "Ciencias Naturales",
+      "studyType": "Bachiller",
+      "startDate": "2010",
+      "endDate": "2016",
+      "score":""
+    }
+],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "C#",
+      "level": "",
+      "keywords": [
+      ]
+    },{
+      "name": "Unity",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "",
+      "keywords": [
+      ]
+    }
+  ],
+    "languages": [{
+      "language": "Español",
+      "fluency": "Nativo"
+    },{
+        "language":"Inglés",
+        "fluency":"B1"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Bald and Bold",
+      "isActive": true,
+      "startDate": "2022",
+      "endDate": "2023",
+      "description": "Bald and Bold es un divertido y desafiante juego en el cual deberás salvar al Presidente de diferentes trampas mortales antes de que se acabe el tiempo.",
+      "technologies":[
+        "C#",
+        "Unity"
+      ],
+      "highlights": [
+        "EVA 2023"
+      ],
+      "url": "https://sebastian-esnaola.itch.io/bald-and-bold"
+    },
+    {
+      "name": "Calculadora",
+      "isActive": true,
+      "startDate": "2022",
+      "endDate": "2023",
+      "description": "Recreación de la calculadora de iPhone a modo de práctica.",
+      "technologies":[
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "highlights": [],
+      "url": "https://6622dff126144c392e13d099--stately-rolypoly-a9e21c.netlify.app/"
+    }
+  ]
+  }

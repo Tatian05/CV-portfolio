@@ -1,0 +1,37 @@
+---
+import Section from "../Section.astro";
+
+import { skills } from "@/cv-es.json"
+---
+
+<Section title="Habilidades">
+    <ul>
+        {
+            skills.map(({name}) =>{
+            return(
+                <li>
+                    <span>{name}</span>
+                </li>)
+            })
+        }
+    </ul>
+</Section>
+
+<style>
+    ul{
+        display: inline-flex;
+        gap:8px;
+    }
+
+    li{
+        background: #eee;
+        border-radius: 6px;
+        padding: .2rem .6rem;
+    }
+
+    li span{
+        font-size: .8rem;
+        font-weight: 600;
+        color: black;
+    }
+</style>
