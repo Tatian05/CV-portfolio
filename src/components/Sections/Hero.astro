@@ -7,7 +7,7 @@ import GitHub from "@/icons/GitHub.astro"
 import LinkedIn from "@/icons/LinkedIn.astro"
 import WorldMap from "@/icons/WorldMap.astro"
 
-const { name, label, image, location, profiles, phone, email } = basics;
+const { name, age, label, image, location, profiles, phone, email } = basics;
 const { city, region, countryCode } = location;
 
 const SOCIAL_ICONS: Record<string, any> = {
@@ -25,7 +25,7 @@ const gitHubUrl = gitHubInfo?.url;
 <Section>
     <div class="container">
         <div class="info">
-            <h1>{name}</h1>
+            <h1 class="name">{name}<span class="age">({age})</span></h1>
             <h2>{label}</h2>
             <span>
                 <WorldMap />
@@ -93,6 +93,15 @@ const gitHubUrl = gitHubInfo?.url;
         align-items: center;
         justify-content: space-between;
         gap: 1rem;
+    }
+
+    .name{
+        display: inline;
+    }
+
+    .age{
+        display: inline;
+        padding: 0 10px;
     }
 
     .info{

@@ -2,12 +2,12 @@
     "basics": {
       "name": "Sebastián Javier Esnaola",
       "age":"25",
-      "label": "Desarrollador de videojuegos y Frontend Junior",
+      "label": "Desarrollador de videojuegos y Frontend",
       "image": "../me.png",
       "email": "isp2014asje@gmail.com",
       "phone": "+54 9 2324562094",
       "url": "",
-      "summary": "Me considero una persona responsable, respetuosa y dedicada. Estoy buscando mi primer trabajo en la industria para mejorar mis habilidades y crecer personalmente.",
+      "summary": "Me considero una persona responsable, respetuosa y dedicada. Estoy buscando mi primer trabajo en la industria para desarrollar mis habilidades y crecer personalmente.",
       "location": {
         "address": "",
         "postalCode": "6600",
@@ -27,7 +27,7 @@
         "url": "https://github.com/Tatian05"
       }]
     },
-    "work":"Todavía no tengo experience pero sigo desarrollando proyectos propios para seguir aprendiendo :)",
+    "work":"Todavía no tengo experiencia pero sigo desarrollando proyectos propios para seguir aprendiendo :)",
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
